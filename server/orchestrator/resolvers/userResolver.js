@@ -1,19 +1,19 @@
-const axios = require('axios');
-const redis = require('../../orchestrator-express/apis/redis-instance');
-const baseURL = 'http://localhost:4001';
+const axios = require("axios");
+const redis = require("../../orchestrator-express/apis/redis-instance");
+const baseURL = "http://localhost:4001";
 
 const userResolvers = {
   // read operation
   Query: {
     users: async () => {
       try {
-        const cache = await redis.get('users:all');
+        const cache = await redis.get("users:all");
         if (cache) {
           const data = JSON.parse(cache);
           return data;
         } else {
           const { data } = await axios.get(`${baseURL}/`);
-          await redis.set('users:all', JSON.stringify(data));
+          await redis.set("users:all", JSON.stringify(data));
           return data;
         }
       } catch (err) {
@@ -23,16 +23,16 @@ const userResolvers = {
 
     user: async (_, args) => {
       try {
-        const cache = await redis.get('users:singleUser');
+        const cache = await redis.get("users:singleUser");
         if (cache) {
           const data = JSON.parse(cache);
           return data;
         } else {
           const { data } = await axios({
-            method: 'get',
+            method: "get",
             url: `${baseURL}/users/${args._id}`,
           });
-          await redis.set('users:singleUser', JSON.stringify(data));
+          await redis.set("users:singleUser", JSON.stringify(data));
           return data;
         }
       } catch (err) {
@@ -49,7 +49,7 @@ const userResolvers = {
         const { username, email, password, phoneNumber, address } = args.body;
 
         const { data } = await axios({
-          method: 'post',
+          method: "post",
           url: `${baseURL}/users`,
           data: {
             username,
@@ -59,7 +59,7 @@ const userResolvers = {
             address,
           },
         });
-        await redis.del('users:all');
+        await redis.del("users:all");
         return data;
       } catch (err) {
         console.log(err);
@@ -71,11 +71,11 @@ const userResolvers = {
       const { _id } = args;
       try {
         const { data } = await axios({
-          method: 'delete',
+          method: "delete",
           url: `${baseURL}/users/${_id}`,
         });
 
-        await redis.del('users:all');
+        await redis.del("users:all");
         return data;
       } catch (err) {
         console.log(err);

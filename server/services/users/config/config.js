@@ -1,5 +1,5 @@
-const { MongoClient } = require('mongodb');
-require('dotenv').config();
+const { MongoClient } = require("mongodb");
+require("dotenv").config();
 
 // Connection URL
 const uri = `mongodb+srv://${process.env.MONGO_USERNAME}:${process.env.MONGO_PASSWORD}@cluster0.ddohxlc.mongodb.net/?retryWrites=true&w=majority`;
@@ -12,9 +12,9 @@ async function run() {
   try {
     await client.connect();
 
-    console.log('Connected successfully to server');
+    console.log("Connected successfully to server");
 
-    const db = client.db('superga-DB');
+    const db = client.db("superga-DB");
     connection = db;
   } catch (err) {
     console.log(err);
