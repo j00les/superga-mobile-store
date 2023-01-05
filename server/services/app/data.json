@@ -1,0 +1,305 @@
+{
+  "products": [
+    {
+      "name": "2750 COTU CLASSIC 901",
+      "description": "Our Classic Superga 2750 Cotu shoe is Fashion's trainer of choice. With an extra strong, fully breathable, pure upper, our timeless shape trainer is a lightweight, simple tennis shoe with our vulcanised sole. In production since 1911, this is the staple shoe with full versatility, and is the very definition of smart casual.",
+      "price": 600000,
+      "mainImg": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/02-2750-COTUCLASSIC-WHITE_52_300x300.jpg?v=1601291563",
+      "categoryId": 1,
+      "userMongoId": "635a52ca27df45b26d9a6fde"
+    },
+
+    {
+      "name": "2750 PANATTA 3.0 A0P",
+      "description": "A tribute to the Italian tennis champion – these Superga Sport Panatta sneakers fuse a modern aesthetic with the signature elements of the new Panatta, dedicated to the Italian tennis champion. The dynamic silhouette has a upper accented with the faux leather swallow tail motif along the sides. A toe cap and a vulcanised rubber sole, round off this personality-packed",
+      "price": 899000,
+      "mainImg": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750PANATTA3.0BLUEGREYDK-WHITEAVORIO_1.jpg?v=1666954341",
+      "categoryId": 1,
+      "userMongoId": "635a52ca27df45b26d9a6fde"
+    },
+    {
+      "name": "2750 FLORAL PRINT ABI",
+      "description": "A tribute to the Italian tennis champion – these Superga Sport Panatta sneakers fuse a modern aesthetic with the signature elements of the new Panatta, dedicated to the Italian tennis champion. The dynamic silhouette has a upper accented with the faux leather swallow tail motif along the sides. A toe cap and a vulcanised rubber sole, round off this personality-packed",
+      "price": 600000,
+      "mainImg": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750FLORALPRINTLTBEIGE-LILLA-LTYELLOWFLOWERS_1_300x300.jpg?v=1664559387",
+      "categoryId": 2,
+      "userMongoId": "635a52ca27df45b26d9a6fde"
+    },
+    {
+      "name": "2402 MULE AKH",
+      "description": "These cute and casual slip-on Supergas will give anything from jeans to dresses a cool, laid-back vibe. Their mule silhouette features a lace-up detail on a upper. Casual slip-on sneaker Metal eyelet lace-up closure for an adjustable fit Loop signature tag at side Cushioned footbed provides sustained comfort for all-day wear Natural , crepe-textured outsole offers traction and durability Machine washable",
+      "price": 600000,
+      "mainImg": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2402MULEPINKISH-FAVORIO_1_300x300.jpg?v=1664558765",
+      "categoryId": 2,
+      "userMongoId": "635a52ca27df45b26d9a6fde"
+    },
+    {
+      "name": "2709 KIDS HEART PATCH A8C",
+      "description": "It's time to embrace the playful allure of vibrant colours, graphic effects and statement details. This season sees the timeless allure of the Superga 2709 updated with unexpected rainbow accents.",
+      "price": 500000,
+
+      "mainImg": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2709KIDSHEARTPATCHWHITE-MULTICOLORHEART_4_300x300.jpg?v=1664559072",
+      "categoryId": 3,
+      "userMongoId": "635a52ca27df45b26d9a6fde"
+    },
+    {
+      "name": "2706 OG AHU",
+      "description": "A remodeled construction of the nostalgic OG Superga. Canvas uppers Metal ring eyelets Tonal shoelaes New insoles named Plantarco Superga; after the ability to support the natural arch of the foot. Heritage back tab This season sees the timeless allure of the Superga 2709 updated with unexpected rainbow accents.",
+      "price": 600000,
+      "mainImg": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/8054936471887_1_300x300.jpg?v=1650952279",
+      "categoryId": 1,
+      "userMongoId": "635a52ca27df45b26d9a6fde"
+    },
+    {
+      "name": "2750 COT3STRAPU AHNP",
+      "description": "desc: Our Classic Superga 2750 shoe sees our famous trainer get laceless twist! With an extra strong, fully breathable, pure upper, our trainer is a lightweight, simple canvas tennis shoe with a hook and loop strap  closure.",
+      "price": 699000,
+      "mainImg": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750-COT3STRAPUGREYCOLOMBA-FAVORIO_1_540x.jpg?v=1664561835",
+      "categoryId": 1,
+      "userMongoId": "635a52ca27df45b26d9a6fde"
+    },
+    {
+      "name": "2750 COTU CLASSIC A9W",
+      "description": "Our Classic Superga 2750 Cotu shoe is Fashion's trainer of choice. With an extra strong, fully breathable, pure upper, our timeless shape trainer is a lightweight, simple tennis shoe with our vulcanised sole. In production since 1911, this is the staple shoe with full versatility, and is the very definition of smart casual.",
+      "price": 699000,
+      "mainImg": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/8033889398113_1.jpg?v=1649840430",
+      "categoryId": 1,
+      "userMongoId": "635a52ca27df45b26d9a6fde"
+    },
+    {
+      "name": "2750 COTU CLASSIC AKG",
+      "description": "Our Classic Superga 2750 Cotu shoe is Fashion's trainer of choice. With an extra strong, fully breathable, pure upper, our timeless shape trainer is a lightweight, simple tennis shoe with our vulcanised sole. In production since 1911, this is the staple shoe with full versatility, and is the very definition of smart casual.",
+      "price": 699000,
+      "mainImg": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750-COTUCLASSICPINKBLUSH-FAVORIO_1.jpg?v=1665649056",
+      "categoryId": 2,
+      "userMongoId": "635a52ca27df45b26d9a6fde"
+    },
+    {
+      "name": "2750 COTU CLASSIC AKL",
+      "description": "Our Classic Superga 2750 Cotu shoe is Fashion's trainer of choice. With an extra strong, fully breathable, pure upper, our timeless shape trainer is a lightweight, simple tennis shoe with our vulcanised sole. In production since 1911, this is the staple shoe with full versatility, and is the very definition of smart casual.",
+      "price": 699000,
+      "mainImg": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750-COTUCLASSICBEIGEALMOND-FAVORIO_1_1024x1024@2x.jpg?v=1665649102",
+      "categoryId": 2,
+      "userMongoId": "635a52ca27df45b26d9a6fde"
+    },
+    {
+      "name": "2750 PRINT A9W",
+      "description": "Our Classic Superga 2750 Cotu shoe is Fashion's trainer of choice. With an extra strong, fully breathable, pure upper, our timeless shape trainer is a lightweight, simple tennis shoe with our vulcanised sole. In production since 1911, this is the staple shoe with full versatility, and is the very definition of smart casual.",
+      "price": 799000,
+      "mainImg": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750PRINTWHITEMULTICOLORTIEDYE_1_1024x1024@2x.jpg?v=1664562586",
+      "categoryId": 2,
+      "userMongoId": "635a52ca27df45b26d9a6fde"
+    },
+    {
+      "name": "2750 KIDS EASYLITE AKF",
+      "description": "A symbol of Italian craftsmanship, a lifestyle icon and a summer must-have reworked into an ultra-lightweight mini-me design. The junior Superga 2750 in Easylite format is characterised by a classic breathable upper, refreshed with lighter foxing around the sole for an even more comfortable fit.",
+      "price": 459000,
+      "mainImg": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750KIDSEASYLITEPINKASHROSE-FAVORIO_4_1024x1024@2x.jpg?v=1664558014",
+      "categoryId": 3,
+      "userMongoId": "635a52ca27df45b26d9a6fde"
+    },
+    {
+      "name": "2750 KIDS STRAPS EASYLITE F43",
+      "description": "Superga 2750 for kids: upper in extra strong, fully breathable pure , with closure straps.  Lighter foxing, outsole in vulcanized natural .   Upper: 100% CottonLining: 100% CottonOutsole: 100% Rubber",
+      "price": 499000,
+      "mainImg": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/08-2750kidsstraps-NAVY_52_1024x1024@2x.jpg?v=1626426104",
+      "categoryId": 3,
+      "userMongoId": "635a52ca27df45b26d9a6fde"
+    },
+    {
+      "name": "2750 KIDS STRAPS EASYLITE 449",
+      "description": "Superga 2750 for kids: upper in extra strong, fully breathable pure , with closure straps.  Lighter foxing, outsole in vulcanized natural .   Upper: 100% CottonLining: 100% CottonOutsole: 100% Rubber",
+      "price": 499000,
+      "mainImg": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/09-2750kidsstraps-BLUE_52_1024x1024@2x.jpg?v=1626676181",
+      "categoryId": 3,
+      "userMongoId": "635a52ca27df45b26d9a6fde"
+    }
+  ],
+  "categories": [
+    {
+      "name": "men"
+    },
+    {
+      "name": "women"
+    },
+    {
+      "name": "kids"
+    }
+  ],
+  "images": [
+    {
+      "productId": 1,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/02-2750-COTUCLASSIC-WHITE_54_1024x1024@2x.jpg?v=1604550867"
+    },
+
+    {
+      "productId": 1,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/02-2750-COTUCLASSIC-WHITE_55_1024x1024@2x.jpg?v=1601346210"
+    },
+    {
+      "productId": 1,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/02-2750-COTUCLASSIC-WHITE_51.jpg?v=1604550867"
+    },
+
+    {
+      "productId": 6,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/8054936471887_2_1024x1024@2x.jpg?v=1650952280"
+    },
+    {
+      "productId": 6,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/8054936471887_3_1024x1024@2x.jpg?v=1650952279"
+    },
+    {
+      "productId": 6,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/8054936471887_5_1024x1024@2x.jpg?v=1650952280"
+    },
+
+    {
+      "productId": 3,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750FLORALPRINTLTBEIGE-LILLA-LTYELLOWFLOWERS_2_1024x1024@2x.jpg?v=1664559387"
+    },
+    {
+      "productId": 3,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750FLORALPRINTLTBEIGE-LILLA-LTYELLOWFLOWERS_3_1024x1024@2x.jpg?v=1664559387"
+    },
+    {
+      "productId": 3,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750FLORALPRINTLTBEIGE-LILLA-LTYELLOWFLOWERS_5_1024x1024@2x.jpg?v=1664559387"
+    },
+
+    {
+      "productId": 4,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2402MULEPINKISH-FAVORIO_2_1024x1024@2x.jpg?v=1664558765"
+    },
+    {
+      "productId": 4,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2402MULEPINKISH-FAVORIO_3_1024x1024@2x.jpg?v=1664558766"
+    },
+    {
+      "productId": 4,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2402MULEPINKISH-FAVORIO_6_1024x1024@2x.jpg?v=1664558766"
+    },
+
+    {
+      "productId": 5,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2709KIDSHEARTPATCHWHITE-MULTICOLORHEART_2_1024x1024@2x.jpg?v=1664559072"
+    },
+    {
+      "productId": 5,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2709KIDSHEARTPATCHWHITE-MULTICOLORHEART_3_1024x1024@2x.jpg?v=1664559072"
+    },
+    {
+      "productId": 5,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2709KIDSHEARTPATCHWHITE-MULTICOLORHEART_5_1024x1024@2x.jpg?v=1664559072"
+    },
+    {
+      "productId": 2,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750PANATTA3.0BLUEGREYDK-WHITEAVORIO_2_540x.jpg?v=1666954340"
+    },
+
+    {
+      "productId": 2,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750PANATTA3.0BLUEGREYDK-WHITEAVORIO_3_540x.jpg?v=1666954340"
+    },
+    {
+      "productId": 2,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750PANATTA3.0BLUEGREYDK-WHITEAVORIO_3_540x.jpg?v=1666954340"
+    },
+    {
+      "productId": 7,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750-COT3STRAPUGREYCOLOMBA-FAVORIO_2_1024x1024@2x.jpg?v=1664561835"
+    },
+    {
+      "productId": 7,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750-COT3STRAPUGREYCOLOMBA-FAVORIO_3_1024x1024@2x.jpg?v=1664561836"
+    },
+    {
+      "productId": 7,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750-COT3STRAPUGREYCOLOMBA-FAVORIO_5_1024x1024@2x.jpg?v=1664561835"
+    },
+    {
+      "productId": 8,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/8033889398113_2_1024x1024@2x.jpg?v=1649840429"
+    },
+    {
+      "productId": 8,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/8033889398113_3_1024x1024@2x.jpg?v=1649840430"
+    },
+    {
+      "productId": 8,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/8033889398113_5_1024x1024@2x.jpg?v=1649840430"
+    },
+    {
+      "productId": 9,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750-COTUCLASSICPINKBLUSH-FAVORIO_2_1024x1024@2x.jpg?v=1665649056"
+    },
+    {
+      "productId": 9,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750-COTUCLASSICPINKBLUSH-FAVORIO_3_1024x1024@2x.jpg?v=1665649055"
+    },
+    {
+      "productId": 9,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750-COTUCLASSICPINKBLUSH-FAVORIO_5_1024x1024@2x.jpg?v=1665649055"
+    },
+    {
+      "productId": 10,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750-COTUCLASSICBEIGEALMOND-FAVORIO_2_1024x1024@2x.jpg?v=1665649102"
+    },
+    {
+      "productId": 10,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750-COTUCLASSICBEIGEALMOND-FAVORIO_3_1024x1024@2x.jpg?v=1665649103"
+    },
+    {
+      "productId": 10,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750-COTUCLASSICBEIGEALMOND-FAVORIO_5_1024x1024@2x.jpg?v=1665649102"
+    },
+    {
+      "productId": 11,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750PRINTWHITEMULTICOLORTIEDYE_2_1024x1024@2x.jpg?v=1664562586"
+    },
+    {
+      "productId": 11,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750PRINTWHITEMULTICOLORTIEDYE_3_1024x1024@2x.jpg?v=1664562587"
+    },
+    {
+      "productId": 11,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750PRINTWHITEMULTICOLORTIEDYE_5_1024x1024@2x.jpg?v=1664562587"
+    },
+    {
+      "productId": 12,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750KIDSEASYLITEPINKASHROSE-FAVORIO_3_1024x1024@2x.jpg?v=1664558014"
+    },
+    {
+      "productId": 12,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750KIDSEASYLITEPINKASHROSE-FAVORIO_5_1024x1024@2x.jpg?v=1664558014"
+    },
+    {
+      "productId": 12,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/2750KIDSEASYLITEPINKASHROSE-FAVORIO_2.jpg?v=1664558014"
+    },
+    {
+      "productId": 13,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/08-2750kidsstraps-NAVY_54_1024x1024@2x.jpg?v=1626426104"
+    },
+    {
+      "productId": 13,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/08-2750kidsstraps-NAVY_5_1024x1024@2x.jpg?v=1626426104"
+    },
+    {
+      "productId": 13,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/08-2750kidsstraps-NAVY_53_1024x1024@2x.jpg?v=1626426104"
+    },
+    {
+      "productId": 14,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/09-2750kidsstraps-BLUE_54.jpg?v=1626676181"
+    },
+    {
+      "productId": 14,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/09-2750kidsstraps-BLUE_5_1024x1024@2x.jpg?v=1626676181"
+    },
+    {
+      "productId": 14,
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0421/7887/1458/products/09-2750kidsstraps-BLUE_53_1024x1024@2x.jpg?v=1626676181"
+    }
+  ]
+}
